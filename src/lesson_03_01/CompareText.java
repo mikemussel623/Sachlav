@@ -9,7 +9,7 @@ public class CompareText {
         String anotherName = "aleX2";
 
 
-        boolean areEqual = name.equals(secondName);
+        boolean areEqual;
         System.out.println(name == secondName);
 
         areEqual = secondName.equals(thirdName);
