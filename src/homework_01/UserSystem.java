@@ -25,7 +25,7 @@ public class UserSystem {
 
         pass = input.nextLine();
         if (pass.equals("P@ssword")) {
-            //System.out.println("Incorrect password");
+
             System.out.println("Hello, " + login + " you've logged in");
         }
         else {
