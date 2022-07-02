@@ -34,7 +34,7 @@ public class LogIn {
         while (tries <= 4);
 
         }
-
+        input.close();
 
     }
 
